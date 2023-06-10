@@ -14,8 +14,8 @@
 - - 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Full Stack Web Development from Masai School</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
-- 💌 Reach at me harshalwagh201718@gmail.com
-- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
+- 💌 Reach at me gp1723658@gmail.com
+- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/gaurav-patil-6468a420a" >Linkedin</a>
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=share_link" >Resume</a>
 - 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
 
