@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/17ad49f3db1f01d928836707c11d14a723183877e2c221fe8abd8ed74707e82b/68747470733a2f2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e67" width="100%" height="50%">
 
-<h1 align="center">Hi 👋, I'm  Harshal Wagh</h1>
+<h1 align="center">Hi 👋, I'm   Gaurav Patil </h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Aspring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>
@@ -38,8 +38,8 @@
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8309h&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="harshal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil22&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="harshal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8309h&show_icons=true&locale=en&theme=dark&background=000000" alt="harshal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil22&show_icons=true&locale=en&theme=dark&background=000000" alt="harshal" /></p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=8309h&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
