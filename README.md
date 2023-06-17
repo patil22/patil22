@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/gaurav-patil-6468a420a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/harshal_k_wagh/">
+  <a href="https://www.instagram.com/gaurav_patil_0.2/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1FflIKgep23qdpDz0t8LIzujfTQdpwy9p/view?usp=drive_link/">
