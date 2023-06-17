@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- <img src="https://komarev.com/ghpvc/?username=8309h&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?patil22&style=flat-square&color=blue" alt=""/>
 <h1> Languages and Tools </h1>
 <img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,postman,replit"/>
 
