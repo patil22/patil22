@@ -17,7 +17,7 @@
 - 💌 Reach at me gp1723658@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/gaurav-patil-6468a420a" >Linkedin</a>
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=share_link" >Resume</a>
-- 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
+- 🔗 My Portfolio <a target ="_blank" href = "https://por-patil22.vercel.app//">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
