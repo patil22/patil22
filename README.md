@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/harshal_k_wagh/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/gaurav-patil-6468a420a/">
+  <a href="https://drive.google.com/file/d/1FflIKgep23qdpDz0t8LIzujfTQdpwy9p/view?usp=drive_link/">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
