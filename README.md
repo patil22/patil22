@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8309h" alt="harshl" /></a> </p>
 
 - - 👀 <b>I’m interested in makes the changes.</b>
-- 💻 Learnt <b>Full Stack Web Development from Masai School</b>
+- 💻 Learnt <b>Full Stack Web Development from 3RI technology</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me gp1723658@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/gaurav-patil-6468a420a" >Linkedin</a>
